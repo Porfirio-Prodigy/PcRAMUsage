@@ -1,4 +1,4 @@
-<h1 align="center">Node Stats</h1>
+<h1 align="center">PcRAMUsage</h1>
 <p>
 Script Simples feito em Node, para mostrar as configurações e a mémoria RAM disponível.
 </p>
